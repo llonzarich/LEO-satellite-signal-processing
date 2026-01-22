@@ -1,0 +1,29 @@
+# -------------------------------------------------------------------------------------
+# purpose: this script outlines the paths to image directories and the class names.
+# -------------------------------------------------------------------------------------
+
+
+# train/val/test set paths.
+# path: yolo-data # path to the image root directory, relataive to 'yolov5' directory.
+path: /Users/lydialonzarich/Desktop/CMU_REUSE/leo-signal-proc/bbox_ml_model_YOLO/yolo-data
+train: images/train 
+val: images/val
+test: images/test # test images (optional)
+
+
+# classes
+names:
+  0: signal
+
+
+
+
+
+# or...
+# path: ../yolo-data # root directory relative to 'yolov5' directory.
+# train: images/train # relative paths from 'path' to the directory containing training images.
+# val: images/val # relative paths from 'path' to the directory containing validation images.
+# test: # images/test # relative paths from 'path' to the directory containing testing images (optional)
+
+# names:
+#   0: signal
