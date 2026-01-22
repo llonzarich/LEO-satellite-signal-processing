@@ -1,8 +1,8 @@
-## Title: Pattern Detection Using ML Models
+## Pattern Detection Using ML Models
 
 
 ## Description: 
-- This repository includes scripts for various ML pipelines aimed to detect signal patterns in low-SNR satellite signals.
+- This repository includes scripts for implementing various ML pipelines to detect signal patterns in low-SNR satellite signals.
 - Each ML pipeline includes a MATLAB-based signal processing component and Python-based model training and evaluation component.
 - Note: Each folder containing a different ML pipeline has a separate system overview and usage instruction section below.
 
