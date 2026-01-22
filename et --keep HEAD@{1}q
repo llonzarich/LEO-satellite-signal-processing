@@ -1,0 +1,278 @@
+[33mcommit 73eb904462aebb97847a0059feb7ed853e9fd7a6[m[33m ([m[1;36mHEAD -> [m[1;32mdesktop[m[33m, [m[1;31morigin/desktop[m[33m)[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Fri Jun 27 15:28:23 2025 -0400
+
+    cleaning up code
+
+[33mcommit e4f190c88819c076bddc04278f87fc450eb7ffad[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Fri Jun 27 14:38:25 2025 -0400
+
+    findpeaks method
+
+[33mcommit f3fa30428e2b242060180b056aecc7fa62b96e73[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Thu Jun 26 13:12:03 2025 -0400
+
+    dtw & findpeaks methods
+
+[33mcommit 7914bc9b36a84c74558aad0c03410605a509aa57[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Jun 18 11:52:14 2025 -0400
+
+    cleaning up ma code
+
+[33mcommit 3b1c8690b42e69d96b0dad5bd5319d970a9e87fb[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Jun 17 14:04:32 2025 -0400
+
+    changed parameters for rtl recording
+
+[33mcommit 6197781f18b79829c00c26b6443cce15a0cbfad3[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Fri Jun 13 19:14:03 2025 -0400
+
+    processing akirah files
+
+[33mcommit 6f37c63c055c7b5fc719558a8877086bf2eebb6b[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Fri Jun 13 16:08:08 2025 -0400
+
+    recording pattern per channel
+
+[33mcommit 4dccd3586ad42e59cd5c2b1fa8d603bad737e83b[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Thu Jun 12 12:35:22 2025 -0400
+
+    akirah data
+
+[33mcommit 27c7ce7f72b6ef185a1e4bdc4ba4fcf4ef929dcf[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Mon Jun 9 10:57:02 2025 -0400
+
+    ml-based detection
+
+[33mcommit 663ccbb1b6da6f4a2256d868882cadd8befdbfe7[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed May 28 16:44:48 2025 -0400
+
+    plotting spectrograms
+
+[33mcommit 369b81b5158e6d97bc03b4aeae3326ab9ee94e05[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed May 14 12:05:17 2025 -0400
+
+    plotting
+
+[33mcommit 508d3bba09da84b75a9ac1b51add521af8d4c983[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue May 13 11:00:36 2025 -0400
+
+    new beanch
+
+[33mcommit 02e01276b76e30917de47b6b05c21b0bf6ffa671[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Mon May 12 14:30:30 2025 -0400
+
+    setting up periodic experiment
+
+[33mcommit 743268db2742b9664edc84d5fdc9bb2221b68077[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Mar 12 19:24:27 2025 -0400
+
+    streamlining testing & logging
+
+[33mcommit e1356d7075d111675667a2af7eb9758f837f7205[m
+Merge: 2368b6c8 34b43927
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Mar 12 19:23:26 2025 -0400
+
+    streamlining testing & logging
+
+[33mcommit 2368b6c885aa3a13b74827bad575c20ac3688cda[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Mar 12 19:17:21 2025 -0400
+
+    streamlining logging and iperf tests
+
+[33mcommit 4f7aa4be5a209d34be200d08d51f43876264f81e[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Mar 12 19:16:35 2025 -0400
+
+    streamlining logging and iperf tests
+
+[33mcommit 34b439277456d2f9f08335e7ea700bd32d0bc2f3[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Mon Mar 3 11:12:46 2025 -0500
+
+    pllotting throuughput
+
+[33mcommit a68bbfff45a631644e77c3e2d4e1941884d288b4[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Mon Mar 3 11:12:46 2025 -0500
+
+    pllotting throuughput
+
+[33mcommit 2886588cb5a3f99eaa5fbf9d256af4f2836c6f65[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 26 23:32:05 2025 -0500
+
+    added specifics for running from remote terminal
+
+[33mcommit b2a0535a46d7dd09a775a56f0b5288ae0238055e[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 26 23:32:05 2025 -0500
+
+    added specifics for running from remote terminal
+
+[33mcommit ce0c23678f83d1e54858a3f2ce3f8166805f6b66[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 26 13:52:33 2025 -0500
+
+    fixed readme to update pipeline
+
+[33mcommit 861d31e483866d759ab5a3c99787d6248e25ec88[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 26 13:52:33 2025 -0500
+
+    fixed readme to update pipeline
+
+[33mcommit 7b9e79ec3bef9c8536d0448c7bc17ae9ed9e889b[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:15:53 2025 -0500
+
+    markdown code inline
+
+[33mcommit 1dab63137039f9f540042858c9334fc7894f8d00[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:15:53 2025 -0500
+
+    markdown code inline
+
+[33mcommit 69fff1d1bf8138b12c30d38ed202b96627d56dee[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:15:23 2025 -0500
+
+    markdown code inline
+
+[33mcommit 3e4bca5efef54304f0d5995413ac333f1fb40360[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:15:23 2025 -0500
+
+    markdown code inline
+
+[33mcommit 337a84043f58827541858c977d4dfeaf9735fe93[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:14:48 2025 -0500
+
+    markdown code inline
+
+[33mcommit 260aee22c52c8f48282eabd92da01bda11c748fe[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:14:48 2025 -0500
+
+    markdown code inline
+
+[33mcommit bb7ffb47d9a62005ff967be360de68491d9513b4[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:12:32 2025 -0500
+
+    signal logging pipeline
+
+[33mcommit 1bc10f0b3f275bedb1b046f8f1a8c48b1c8858aa[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Tue Feb 25 17:12:32 2025 -0500
+
+    signal logging pipeline
+
+[33mcommit 94b611cd4a0e2e653c400dc3fc1e4a1b5de8ba2f[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Fri Feb 21 20:32:59 2025 -0500
+
+    pipeline for automating signal collection
+
+[33mcommit 0a5fd4526b49b4d8338a9061b4d03cac222e3ab6[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Fri Feb 21 20:32:59 2025 -0500
+
+    pipeline for automating signal collection
+
+[33mcommit e60a12624efaf45ad9269dfbabcf0aa699b8ea29[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Thu Feb 20 21:18:21 2025 -0500
+
+    commit msg
+
+[33mcommit 0b773e69418aa3f4f557ff054aae215a6f803027[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Thu Feb 20 21:18:21 2025 -0500
+
+    commit msg
+
+[33mcommit 92dc0baf0ea29d3c40d7e03a97d3415184d93b76[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Thu Feb 20 16:03:51 2025 -0500
+
+    pingtest
+
+[33mcommit 73d43c0a255b26db4711a73b6a6e961958be51cd[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Thu Feb 20 16:03:51 2025 -0500
+
+    pingtest
+
+[33mcommit f740722323d0a74204b73850444b926789d035cd[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 19 20:50:25 2025 -0500
+
+    stft
+
+[33mcommit 8b77291959414ed1f8ace2de7cd8cff72c2a79a7[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 19 20:50:25 2025 -0500
+
+    stft
+
+[33mcommit b98792f2cf60e476b4cd7cf1ff272f75a6b3d995[m
+Author: gavinsyw <gavinsyw@gmail.com>
+Date:   Thu Feb 13 21:39:07 2025 -0500
+
+    add signal analysis
+
+[33mcommit cd9aaeba2f25571ecdf4f729bdd41a2a8936eb61[m
+Author: gavinsyw <gavinsyw@gmail.com>
+Date:   Thu Feb 13 21:39:07 2025 -0500
+
+    add signal analysis
+
+[33mcommit fc39b5e342c319c2fe08b9fec71feb5e5de5a148[m
+Merge: 64e25363 23b11d5b
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 12 16:56:07 2025 -0500
+
+    Merge branch 'main' of github.com:v-mrg/leo-signal-proc into main
+
+[33mcommit 1d5c00a080e01e3824e457760dcf1ed95b929e5a[m
+Merge: 64e25363 5f65a2e3
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 12 16:56:07 2025 -0500
+
+    Merge branch 'main' of github.com:v-mrg/leo-signal-proc into main
+
+[33mcommit 64e253633425ccb589dad0168adaa854979a569f[m
+Author: veronica <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 12 16:54:22 2025 -0500
+
+    first commit
+
+[33mcommit 23b11d5b9c1a2fb6d0bb9c9bef4b8c723778f1bb[m
+Author: v-mrg <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 12 16:52:38 2025 -0500
+
+    Initial commit
+
+[33mcommit 5f65a2e394b79e6520196687a59257b94ec4f349[m
+Author: v-mrg <vmuriga@andrew.cmu.edu>
+Date:   Wed Feb 12 16:52:38 2025 -0500
+
+    Initial commit
